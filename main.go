@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-  fmt.Println("-32e")
+	m := map[int]string{1: "test", 2: "dev"}
+	fmt.Println("---")
+  	g := 1
+  	fmt.Println(m[g])
 }
