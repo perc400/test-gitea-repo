@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
   fmt.Println("---")
-
-  fmt.Println("test")
+  g := 1
+  fmt.Println(g)
 }
