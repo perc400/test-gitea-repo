@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("---")
   	g := 1
   	fmt.Println(m[g])
+	fmt.Println(m[1])
 }
